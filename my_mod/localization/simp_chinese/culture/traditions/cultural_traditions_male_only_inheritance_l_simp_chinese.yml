@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ tradition_male_only_inheritance_name:0 "父系氏族"
+ tradition_male_only_inheritance_desc:1 "该文化执行父系等级制，统治阶级绝大多数为男性。"
+ culture_parameter_male_only_inheritance:0 "可以实行#high $male_only_law$#![gender_law|E]"

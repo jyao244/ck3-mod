@@ -1,0 +1,25 @@
+task_advisor_1_default = {
+	position = councillor_advisor_1
+	default_task = yes
+	
+	task_type = task_type_general
+	task_progress = task_progress_infinite
+	
+	effect_desc = task_advisor_default_effect_desc
+	council_owner_modifier = {
+		name = task_advisor_default_modifier
+	}
+}
+
+task_advisor_2_default = {
+	position = councillor_advisor_2
+	default_task = yes
+	
+	task_type = task_type_general
+	task_progress = task_progress_infinite
+	
+	effect_desc = task_advisor_default_effect_desc
+	council_owner_modifier = {
+		name = task_advisor_default_modifier
+	}
+}

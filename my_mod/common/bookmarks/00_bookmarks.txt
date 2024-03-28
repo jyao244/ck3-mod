@@ -1,0 +1,55 @@
+﻿bm_769_early_middle_ages = {
+	start_date = 769.1.1
+	is_playable = yes
+}
+
+bm_867_viking_age = {
+	start_date = 867.1.1
+	is_playable = yes
+}
+
+
+bm_936_the_iron_century = {
+	start_date = 936.1.1
+	is_playable = yes
+}
+
+bm_1066_high_middle_ages = {
+	start_date = 1066.9.15
+	is_playable = yes
+}
+
+bm_1066_william_the_conqueror = {
+	start_date = 1066.12.26
+	is_playable = yes
+}
+
+bm_1081_the_alexiad = {
+	start_date = 1081.1.1
+	is_playable = yes
+}
+
+bm_1187_the_third_crusade = {
+	start_date = 1187.1.1
+	is_playable = yes
+}
+
+bm_1204_the_latin_empire = {
+	start_date = 1204.1.1
+	is_playable = yes
+}
+
+bm_1220_age_of_the_mongols = {
+	start_date = 1220.1.1
+	is_playable = yes
+}
+
+bm_1241_rise_of_the_hansa = {
+	start_date = 1241.1.1
+	is_playable = yes
+}
+
+bm_1337_late_middle_ages = {
+	start_date = 1337.1.1
+	is_playable = yes
+}
