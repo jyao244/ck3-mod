@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ trait_immortal_blood:0 "永生血脉"
+ trait_immortal_blood_desc:0 "该角色拥有永生血脉。"
+ trait_immortal_blood_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]拥有永生血脉。"
